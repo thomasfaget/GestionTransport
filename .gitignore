@@ -50,5 +50,6 @@ crashlytics-build.properties
 fabric.properties
 
 BD/BDH2.h2.db
+BDH2.backup.txt
 lib/**
 Login/**
